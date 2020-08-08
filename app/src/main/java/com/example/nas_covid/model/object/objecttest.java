@@ -4,5 +4,6 @@ class objecttest {
     int i=100;
 int c;
 int y;
+int q;
 }
 
