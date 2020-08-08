@@ -1,8 +1,10 @@
-package com.example.nas_covid;
+package com.example.nas_covid.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.nas_covid.R;
 
 public class MainActivity extends AppCompatActivity {
 
