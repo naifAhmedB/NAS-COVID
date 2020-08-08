@@ -1,4 +1,4 @@
-package com.example.nas_covid.view;
+package com.example.nas_covid;
 
 import androidx.appcompat.app.AppCompatActivity;
 
