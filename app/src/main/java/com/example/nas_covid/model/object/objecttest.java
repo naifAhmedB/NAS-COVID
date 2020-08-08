@@ -5,5 +5,6 @@ class objecttest {
 int c;
 int y;
 int q;
+//hgftutyuyugyuygugugyugyugu
 }
 
